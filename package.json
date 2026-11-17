@@ -1,0 +1,10 @@
+{
+  "name": "studio89-nail-spa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Studio 89 Nail Spa — a buildless HTML, CSS and vanilla JavaScript website.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs"
+  }
+}

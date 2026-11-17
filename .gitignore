@@ -1,0 +1,8 @@
+node_modules/
+dist/
+asset-review.jpg
+.env
+.env.*
+*.tgz
+*.tar.gz
+qa/
