@@ -16,7 +16,7 @@ Run `npm run build`. This checks the page's local asset references and copies th
 - Colours, spacing, typography and responsive layouts are in `css/style.css`. Fonts are served locally from `assets/fonts/`.
 - The supplied original logo and price menu are retained in `assets/logo/original-logo.webp` and `assets/images/original-price-menu.webp`. The orange logo ink is used without recolouring.
 - Replace the illustrative photographs in `assets/images/` with the salon's actual work when available, and update the gallery captions, alt text, and disclosure together. No actual salon/customer photographs were present in the supplied files.
-- Booking and call links use `tel:0894535225`. There is no online reservation form or booking backend. On a phone, the links open the dialler; desktop behaviour depends on installed calling software.
+- Booking buttons open `https://studio89nailsspa.setmore.com` in a new tab for online appointments. Call links use `tel:0894535225` to open the dialler; desktop behaviour depends on installed calling software.
 - The location uses a Google Maps embed using the supplied Eircode (F45 E447) to avoid ambiguous street-name matches. The address and directions remain available if the third-party map cannot load. Google Maps needs an internet connection.
 - Instagram and Facebook links use the exact addresses supplied in the brief and open in new tabs.
 - The canonical URL and social metadata reflect the configured Sites URL. Update both, plus JSON-LD, when moving to another domain.
